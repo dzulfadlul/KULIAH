@@ -1,0 +1,4 @@
+Algoritma,Akurasi (%),Presisi,Recall,F1-Score
+Support Vector Machine,100.0,1.0,1.0,1.0
+Random Forest,100.0,1.0,1.0,1.0
+Multinomial Naive Bayes,100.0,1.0,1.0,1.0
